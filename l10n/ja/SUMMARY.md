@@ -2,7 +2,7 @@
 
 * [The Open Source Way (オープンソースウェイ)](README.md)
 * [序文：オープンソースウェイの提唱](presenting-the-open-source-way.md)
-* [はじめに](getting-started/README.md)
+* [入門](getting-started/README.md)
   * [コミュニティ101](getting-started/community-101.md)
   * [コミュニティ構築の要点](getting-started/essentials-of-building-a-community.md)
   * [戦略の構築](getting-started/building-a-strategy.md)
